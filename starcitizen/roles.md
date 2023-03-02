@@ -2,8 +2,8 @@
 title: Roles and Ranks
 description: Star Citizen Roles and Ranks
 published: true
-date: 2023-03-02T07:29:29.834Z
-tags: ranks, roles, star citizen
+date: 2023-03-02T07:29:32.617Z
+tags: star citizen, roles, ranks
 editor: markdown
 dateCreated: 2023-03-02T05:09:50.564Z
 ---
