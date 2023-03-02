@@ -2,7 +2,7 @@
 title: Star Citizen
 description: Star Citizen Hub Page
 published: true
-date: 2023-03-02T07:05:18.012Z
+date: 2023-03-02T07:19:13.963Z
 tags: star citizen
 editor: markdown
 dateCreated: 2023-03-01T02:03:39.669Z
@@ -28,7 +28,7 @@ Welcome to the Star Citizen Hub, this is where you'll find information on our or
   </ul>
 </div>  
 
-## Org Structure
+## Organizational Info
 <div>
 <ul class="links-list">
   <li>
@@ -37,3 +37,22 @@ Welcome to the Star Citizen Hub, this is where you'll find information on our or
 </ul>
 </div> 
 
+## Guides and Information
+<div>
+<ul class="links-list">
+  <li>
+    <a href="/starcitizen/ships" class="is-internal-link is-valid-page">🚀 Fleet Yards <em>All things ships related to our organization</em></a>
+  </li>
+  <li>
+    <a href="/starcitizen/ships/something" class="is-internal-link is-valid-page">🔫 fps? content <em>All things ships related to our organization</em></a>
+  </li>
+    <li>
+    <a href="/starcitizen/ships/something" class="is-internal-link is-valid-page">🚀 content 2 <em>All things ships related to our organization</em></a>
+  </li>
+    <li>
+    <a href="/starcitizen/ships/something" class="is-internal-link is-valid-page">🚀 content 3 <em>All things ships related to our organization</em></a>
+  </li>
+</ul>
+</div> 
+
+la la la something more? @everdust <3
